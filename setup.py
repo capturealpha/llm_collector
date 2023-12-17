@@ -4,7 +4,7 @@ setup(
     name='llm_collector',
     version='0.1.0',
     author='thealpha0ne',
-    author_email='your.email@example.com',
+    author_email='smeredithi@capturealpha.com',
     description='Django file content extractor for big token llm models',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
